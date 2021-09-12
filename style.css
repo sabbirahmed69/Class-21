@@ -1,0 +1,11 @@
+.navbar-light .navbar-brand {
+    color: #041fff;}
+    .carousel-caption.d-none.d-md-block {
+        margin-bottom: 300px;
+    }
+    label {
+        display: inline-block;
+        margin-bottom: 10px;
+        /* margin-top: 10px; */
+    }
+  
